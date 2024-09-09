@@ -1,0 +1,1 @@
+# algomapio-sol
